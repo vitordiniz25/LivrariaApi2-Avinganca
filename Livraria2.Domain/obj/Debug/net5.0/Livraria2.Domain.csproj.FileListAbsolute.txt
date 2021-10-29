@@ -1,0 +1,15 @@
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\Livraria2.Domain.deps.json
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\Livraria2.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\ref\Livraria2.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\Livraria2.Domain.pdb
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\Livraria2.Infra.dll
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\bin\Debug\net5.0\Livraria2.Infra.pdb
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.csproj.AssemblyReference.cache
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.AssemblyInfo.cs
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.csproj.CopyComplete
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\ref\Livraria2.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\Livraria2\Livraria2.Domain\obj\Debug\net5.0\Livraria2.Domain.pdb
